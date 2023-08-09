@@ -1,9 +1,9 @@
 <h1 align="center">
-   Banco-Digital-com-Java
+   Java_Digital_Bank
 </h1>
 
 
-Desafio de projeto de um Banco Digital com **Java** e **Orientação a Objetos**. Foi desenvolvido com a tutoria do Venilton Falvo Jr. da Digital Innovation One.
+Sistema de banco digital aplicando os principais conceitos de **Orientação a Objetos** com **Java**. Foi desenvolvido com a tutoria do Venilton Falvo Jr. da Digital Innovation One.
 
 ## Contexto   
 
