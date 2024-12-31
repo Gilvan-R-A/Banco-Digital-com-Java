@@ -135,7 +135,7 @@ A classe **Main** contém o método **main** que permite a interação com o usu
 
 **2. Clonar o Repositório**   
 
-Primeiro, faça o clone do repositório para sua máquina local usando o comando:   
+Faça o clone do repositório para sua máquina local usando o comando:   
 
 ```   
 git clone https://github.com/Gilvan-R-A/digital-bank-app.git
